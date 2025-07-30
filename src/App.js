@@ -27,6 +27,7 @@ function Projects() {
     { title: "Live calling app", url: "https://live-calling-app.vercel.app/" },
     { title: "Gsheet DB", url: "https://multidevice.vercel.app/" },
     { title: "Games", url: "https://sibirajst-games.vercel.app/" },
+    { title: "My Projects Portfolio", url: "https://sibirajst-projects.vercel.app/" },
     { title: "CGPA calculator", url: "https://cgpacalculator-6th.vercel.app/" },
     { title: "Multiplayer Snake Game", url: "https://snake-fours.vercel.app/" },
     { title: "Mini OLX", url: "https://zonex-ten.vercel.app/" },
